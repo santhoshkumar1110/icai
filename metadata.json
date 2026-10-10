@@ -1,0 +1,6 @@
+{
+  "name": "ICAI Paper 1 Examination Portal",
+  "description": "Examination portal and case scenario question bank for ICAI Intermediate Paper 1: Advanced Accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
